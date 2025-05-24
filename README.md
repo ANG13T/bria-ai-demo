@@ -1,11 +1,10 @@
-![Example Shot](https://github.com/ANG13T/bria-ai-demo/blob/main/assets/app_files/result.png?raw=true)
-
-![Product Snap Workflow]()
-
 # Product Snap
-
 Product Snap is a smart product creator application that allows users to generate, modify, and enhance product images through a series of steps using the [Bria API](https://bria.ai/)
 
+ <img src="https://github.com/ANG13T/bria-ai-demo/blob/main/assets/app_files/result.png?raw=true" width="300"/>
+
+ <img src="https://github.com/ANG13T/bria-ai-demo/blob/main/assets/app_files/app.png?raw=true" width="600"/>
+ 
 ## Features
 1. **Generate Image**: Create a product image based on a text prompt and specified aspect ratio.
 2. **Cutout**: Remove the background from the generated image to isolate the product.
