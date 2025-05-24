@@ -1,5 +1,4 @@
-
-![Example Shot]()
+![Example Shot](https://github.com/ANG13T/bria-ai-demo/blob/main/assets/app_files/result.png?raw=true)
 
 ![Product Snap Workflow]()
 
