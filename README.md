@@ -13,6 +13,32 @@ Product Snap is a smart product creator application that allows users to generat
 5. **Add Shadow**: Add realistic shadows to the packshot to enhance its appearance.
 6. **Lifestyle Shot**: Create a lifestyle shot by placing the product in a real-world context.
 
+# Getting Started
+```
+git clone https://github.com/ANG13T/bria-ai-demo.git
+
+cd bria-ai-demo
+
+python3 -m venv briademo
+
+source briademo/bin/activate
+
+pip install streamlit 
+
+streamlit run app.py
+```
+
+Go to: `http://localhost:8501` on a browser
+
+# Provide API Key
+Get your API key here: [https://platform.bria.ai/console/account/api-keys](https://platform.bria.ai/console/account/api-keys)
+
+Create a `.env` file including your API key at the root of the code base 
+
+```
+BRIA_API_TOKEN=API_KEY_HERE
+```
+
 # Bria API Endpoints
 
 **Generate Image**: Generates an image from a text prompt with specified parameters like aspect ratio and seed for randomness
