@@ -23,7 +23,7 @@ python3 -m venv briademo
 
 source briademo/bin/activate
 
-pip install streamlit 
+pip install streamlit dotenv
 
 streamlit run app.py
 ```
